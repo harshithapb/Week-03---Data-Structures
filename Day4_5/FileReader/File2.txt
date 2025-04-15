@@ -1,0 +1,37 @@
+Guidelines for your Zoominfo Assessment 
+To ensure a smooth and successful online coding assessment, please read the below carefully 
+and ensure you meet the following basic IT requirements: 
+Computer Specifications: 
+• A desktop or laptop computer with a minimum of 4GB RAM. 
+• Modern operating system (Windows 10 or later, macOS 10.15 Catalina or later, or Linux). 
+Internet Connection: 
+• Stable and high-speed internet connection (minimum 5 Mbps download/upload speed). 
+• Wired connection is preferred over Wi-Fi to prevent disruptions. 
+Browser Requirements: 
+• Latest version of Google Chrome, Mozilla Firefox, or Microsoft Edge. 
+• Enable JavaScript and cookies in your browser settings. 
+Software: 
+• Ensure your computer has the latest updates and patches installed. 
+• Have a reliable antivirus program installed and running. 
+Workspace: 
+• A quiet and well-lit environment free from interruptions. 
+• Ensure your desk is clear of any unnecessary materials. 
+Hardware: 
+• Functional webcam and microphone & updates installed. 
+• Ensure your keyboard and mouse are in good working condition. 
+Power Supply: 
+• Ensure your device is fully charged or connected to a power source during the 
+assessment. 
+Preparation: 
+• Close all unnecessary applications and browser tabs to avoid distractions and improve 
+performance. 
+Support: 
+• Reach your SPOC - Akash @ 9940638130 in case of any technical or login issues. 
+Page 1 of 2 
+Note: 
+This is a proctored assessment. Please ensure that 
+• You do not copy and paste codes into the code editor 
+• You do not leave the code editor tab during the assessment (the length of time impacts 
+our detection algorithm) 
+• You do not interact with other students or use AI or google for reference. 
+Page 2 of 2 
